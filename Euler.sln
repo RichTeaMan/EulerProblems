@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-LexicographicPermutation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-LexicographicPermutationsUnitTests", "24-LexicographicPermutationsUnitTests\24-LexicographicPermutationsUnitTests.csproj", "{28548A62-896E-4169-857E-BAD6385EB090}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Multiplesof3and5", "1-Multiplesof3and5\1-Multiplesof3and5.csproj", "{319F1901-D307-421D-A91A-1BCABF6441EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{28548A62-896E-4169-857E-BAD6385EB090}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28548A62-896E-4169-857E-BAD6385EB090}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28548A62-896E-4169-857E-BAD6385EB090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319F1901-D307-421D-A91A-1BCABF6441EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319F1901-D307-421D-A91A-1BCABF6441EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319F1901-D307-421D-A91A-1BCABF6441EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319F1901-D307-421D-A91A-1BCABF6441EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
