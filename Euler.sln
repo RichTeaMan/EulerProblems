@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-LargeSum", "13-LargeSum\13-LargeSum.csproj", "{2BBD86D4-28BC-4148-95F2-CCC4A50C4366}"
 EndProject
@@ -12,6 +12,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-NonAbundantSums", "23-NonAbundantSums\23-NonAbundantSums.csproj", "{3EDA68CA-5DAE-4CD7-A313-2FFE90C8E150}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-NamesScores", "22-NamesScores\22-NamesScores.csproj", "{E9AA0DA4-2D78-4F92-9CE1-A084F8527E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-LexicographicPermutations", "24-LexicographicPermutations\24-LexicographicPermutations.csproj", "{0FB189D9-19BF-4D34-AD39-FFD313849DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-LexicographicPermutationsUnitTests", "24-LexicographicPermutationsUnitTests\24-LexicographicPermutationsUnitTests.csproj", "{28548A62-896E-4169-857E-BAD6385EB090}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{E9AA0DA4-2D78-4F92-9CE1-A084F8527E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9AA0DA4-2D78-4F92-9CE1-A084F8527E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9AA0DA4-2D78-4F92-9CE1-A084F8527E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB189D9-19BF-4D34-AD39-FFD313849DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB189D9-19BF-4D34-AD39-FFD313849DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB189D9-19BF-4D34-AD39-FFD313849DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB189D9-19BF-4D34-AD39-FFD313849DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28548A62-896E-4169-857E-BAD6385EB090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28548A62-896E-4169-857E-BAD6385EB090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28548A62-896E-4169-857E-BAD6385EB090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28548A62-896E-4169-857E-BAD6385EB090}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
