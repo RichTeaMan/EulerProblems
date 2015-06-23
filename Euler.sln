@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Multiplesof3and5", "1-Mul
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Even FibonacciNumbers", "2-Even FibonacciNumbers\2-Even FibonacciNumbers.csproj", "{67F383C7-549E-44C3-8891-6A65CE7149BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePaths", "LatticePaths\LatticePaths.csproj", "{B8F89A8B-5DB7-4EFF-8CA0-C34BB68E6D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePathTest", "LatticePathTest\LatticePathTest.csproj", "{5475C3E2-7579-451A-B9BC-E254904935A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{67F383C7-549E-44C3-8891-6A65CE7149BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67F383C7-549E-44C3-8891-6A65CE7149BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67F383C7-549E-44C3-8891-6A65CE7149BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F89A8B-5DB7-4EFF-8CA0-C34BB68E6D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F89A8B-5DB7-4EFF-8CA0-C34BB68E6D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F89A8B-5DB7-4EFF-8CA0-C34BB68E6D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F89A8B-5DB7-4EFF-8CA0-C34BB68E6D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5475C3E2-7579-451A-B9BC-E254904935A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5475C3E2-7579-451A-B9BC-E254904935A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5475C3E2-7579-451A-B9BC-E254904935A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5475C3E2-7579-451A-B9BC-E254904935A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
