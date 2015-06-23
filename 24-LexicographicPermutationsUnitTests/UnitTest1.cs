@@ -7,7 +7,7 @@ namespace _24_LexicographicPermutationsUnitTests
     [TestClass]
     public class UnitTest1
     {
-        [TestMethod]
+        //[TestMethod]
         public void GetIntFromDigitsTest()
         {
             long numberCount = Math.BigMul(int.MaxValue, 2);
@@ -32,7 +32,7 @@ namespace _24_LexicographicPermutationsUnitTests
             }
         }
 
-        [TestMethod]
+        //[TestMethod]
         public void GetPermutationsTest()
         {
             var results = new[] { 012, 021, 102, 120, 201, 210 };

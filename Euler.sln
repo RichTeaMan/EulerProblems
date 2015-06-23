@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePaths", "LatticePath
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatticePathTest", "LatticePathTest\LatticePathTest.csproj", "{5475C3E2-7579-451A-B9BC-E254904935A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLetterCounts", "NumberLetterCounts\NumberLetterCounts.csproj", "{B7092A14-B03F-4C35-BE23-82068E044B46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberLetterCountsTest", "NumberLetterCountsTest\NumberLetterCountsTest.csproj", "{8FF91618-2596-4425-9404-E6E7DB274B1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{5475C3E2-7579-451A-B9BC-E254904935A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5475C3E2-7579-451A-B9BC-E254904935A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5475C3E2-7579-451A-B9BC-E254904935A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7092A14-B03F-4C35-BE23-82068E044B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7092A14-B03F-4C35-BE23-82068E044B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7092A14-B03F-4C35-BE23-82068E044B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7092A14-B03F-4C35-BE23-82068E044B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF91618-2596-4425-9404-E6E7DB274B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF91618-2596-4425-9404-E6E7DB274B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF91618-2596-4425-9404-E6E7DB274B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF91618-2596-4425-9404-E6E7DB274B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
